@@ -33,6 +33,10 @@
       {
         "organization": {
           "name": "SANEA",
+          "image": {
+            "alt": "sanea_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/10/30cbaef8-55c8-44ba-941d-6b929034d752_sanea_logo.png"
+          },
           "URL": "https://www.sanea.org/"
         },
         "roles": [
