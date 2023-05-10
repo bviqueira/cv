@@ -50,7 +50,12 @@
       },
       {
         "organization": {
-          "name": "Telegram"
+          "name": "Telegram",
+          "image": {
+            "alt": "telegram_logo.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/10/9f7c26af-d8e4-4e22-b29b-d746ab77fee8_telegram_logo.jpg"
+          },
+          "URL": "https://telegram.org"
         },
         "roles": [
           {
@@ -230,12 +235,61 @@
       },
       {
         "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería Informática",
+        "startDate": "2017-09-01",
+        "finishDate": "2019-06-01",
+        "institution": {
+          "name": "Universidad de Vigo",
+          "description": "Grado en Ingeniería informática",
+          "image": {
+            "alt": "uvigo_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/10/7ffc0028-7e6d-4d8d-a782-a873941b1bb0_uvigo_logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bash",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "Ingeniería Informática",
         "startDate": "2019-09-01",
         "institution": {
           "name": "Universidad de La Coruña",
-          "description": "Grado en Ingeniería Informática"
+          "description": "Grado en Ingeniería Informática",
+          "image": {
+            "alt": "udc_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/10/8072ed0b-bfc2-444c-bc51-41a3a47eff68_udc_logo.png"
+          }
         },
         "linkedCompetences": [
           {
@@ -284,51 +338,6 @@
           },
           {
             "name": "Unity3D",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Ingeniería Informática",
-        "startDate": "2017-09-01",
-        "finishDate": "2019-06-01",
-        "institution": {
-          "name": "Universidad de Vigo",
-          "description": "Grado en Ingeniería informática",
-          "image": {
-            "alt": "uvigo_logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/10/7ffc0028-7e6d-4d8d-a782-a873941b1bb0_uvigo_logo.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Bash",
-            "type": "technology"
-          },
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "MySQL",
-            "type": "technology"
-          },
-          {
-            "name": "SQL",
             "type": "technology"
           }
         ]
