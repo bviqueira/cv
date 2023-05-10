@@ -215,7 +215,11 @@
         "startDate": "2022-10-01",
         "institution": {
           "name": "Google",
-          "URL": "https://www.coursera.org/account/accomplishments/specialization/certificate/FAFLNN4CMLKT"
+          "URL": "https://www.coursera.org/account/accomplishments/specialization/certificate/FAFLNN4CMLKT",
+          "image": {
+            "alt": "google_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/10/7ca8af11-a942-495c-8d29-12b108ace5f1_google_logo.png"
+          }
         },
         "linkedCompetences": [
           {
