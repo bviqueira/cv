@@ -187,7 +187,11 @@
         "startDate": "2023-01-01",
         "institution": {
           "name": "Google",
-          "URL": "https://www.coursera.org/account/accomplishments/specialization/certificate/4KGC9UEVGQ5D"
+          "URL": "https://www.coursera.org/account/accomplishments/specialization/certificate/4KGC9UEVGQ5D",
+          "image": {
+            "alt": "google_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/10/cfdfdca4-058a-45a6-b5c1-025583a43c60_google_logo.png"
+          }
         },
         "linkedCompetences": [
           {
