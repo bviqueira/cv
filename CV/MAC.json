@@ -296,7 +296,11 @@
         "finishDate": "2019-06-01",
         "institution": {
           "name": "Universidad de Vigo",
-          "description": "Grado en Ingeniería informática"
+          "description": "Grado en Ingeniería informática",
+          "image": {
+            "alt": "uvigo_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/10/7ffc0028-7e6d-4d8d-a782-a873941b1bb0_uvigo_logo.png"
+          }
         },
         "linkedCompetences": [
           {
