@@ -19,10 +19,6 @@
     },
     "relevantLinks": [
       {
-        "type": "github",
-        "URL": "https://www.github.com/bviqueira"
-      },
-      {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/brais-viqueira-mosquera-90b10a219/"
       }
@@ -32,7 +28,7 @@
     "jobs": [
       {
         "organization": {
-          "name": "SANEA Formación",
+          "name": "SANEA",
           "URL": "https://www.sanea.org/"
         },
         "roles": [
@@ -50,8 +46,7 @@
       },
       {
         "organization": {
-          "name": "Telegram",
-          "URL": "https://telegram.org/"
+          "name": "Telegram"
         },
         "roles": [
           {
@@ -71,34 +66,22 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "Inglés",
         "level": "Professional working proficiency"
       },
       {
-        "name": "Galician",
+        "name": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "Gallego",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Unity3D",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
+          "name": "Bash",
           "type": "technology"
         }
       },
@@ -110,7 +93,13 @@
       },
       {
         "skill": {
-          "name": "Bash",
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
           "type": "technology"
         }
       },
@@ -128,13 +117,19 @@
       },
       {
         "skill": {
-          "name": "PHP",
+          "name": "Unity3D",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
           "type": "technology"
         }
       },
@@ -146,12 +141,41 @@
       },
       {
         "skill": {
-          "name": "MySQL",
+          "name": "JAVA",
           "type": "technology"
         }
       }
     ],
     "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Administración de Sistemas Informáticos en Red",
+        "startDate": "2015-09-01",
+        "finishDate": "2017-06-01",
+        "institution": {
+          "name": "IES Xulián Magariños",
+          "description": "FP superior de Informática"
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
       {
         "studyType": "certification",
         "degreeAchieved": false,
@@ -159,7 +183,6 @@
         "startDate": "2023-01-01",
         "institution": {
           "name": "Google",
-          "description": "",
           "URL": "https://www.coursera.org/account/accomplishments/specialization/certificate/4KGC9UEVGQ5D"
         },
         "linkedCompetences": [
@@ -184,7 +207,6 @@
         "startDate": "2022-10-01",
         "institution": {
           "name": "Google",
-          "description": "",
           "URL": "https://www.coursera.org/account/accomplishments/specialization/certificate/FAFLNN4CMLKT"
         },
         "linkedCompetences": [
@@ -287,35 +309,6 @@
           },
           {
             "name": "MySQL",
-            "type": "technology"
-          },
-          {
-            "name": "SQL",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Administración de Sistemas Informáticos en Red",
-        "startDate": "2015-09-01",
-        "finishDate": "2017-06-01",
-        "institution": {
-          "name": "IES Xulián Magariños",
-          "description": "FP superior de Informática"
-        },
-        "linkedCompetences": [
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "PHP",
             "type": "technology"
           },
           {
