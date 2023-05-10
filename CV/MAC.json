@@ -1,0 +1,348 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Brais",
+      "surnames": "Viqueira Mosquera",
+      "title": "Informático interesado en IA, abierto a otras especialidades",
+      "description": "Soy una persona curiosa a la que le gusta aprender sobre cualquier cosa. Con ganas de adquirir experiencia personal y formar parte de algún proyecto interesante. Mi interés principal ahora mismo es conocer más sobre la IA, pero realmente tengo interés en otros campos, como programador o IT.",
+      "location": {
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "La Coruña",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://www.github.com/bviqueira"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/brais-viqueira-mosquera-90b10a219/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "SANEA Formación",
+          "URL": "https://www.sanea.org/"
+        },
+        "roles": [
+          {
+            "name": "Administrador de sistemas de IT",
+            "startDate": "2017-03-01",
+            "finishDate": "2017-06-01",
+            "challenges": [
+              {
+                "description": "Contrato de prácticas del ciclo superior de ASIR\n- Gestión de usuarios\n- Gestión de cursos\n- Automatización de tareas\n- Mantenimiento de ordenadores"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Telegram",
+          "URL": "https://telegram.org/"
+        },
+        "roles": [
+          {
+            "name": "Soporte a usuarios",
+            "startDate": "2015-09-01",
+            "finishDate": "2020-11-01",
+            "challenges": [
+              {
+                "description": "- Soporte a usuarios\n- App Tester\n- Traductor"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Galician",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Unity3D",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Google Data Analytics",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "Google",
+          "description": "",
+          "URL": "https://www.coursera.org/account/accomplishments/specialization/certificate/4KGC9UEVGQ5D"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Google Sheets",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Google IT Automation with Python",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "Google",
+          "description": "",
+          "URL": "https://www.coursera.org/account/accomplishments/specialization/certificate/FAFLNN4CMLKT"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Ingeniería Informática",
+        "startDate": "2019-09-01",
+        "institution": {
+          "name": "Universidad de La Coruña",
+          "description": "Grado en Ingeniería Informática"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Apache",
+            "type": "technology"
+          },
+          {
+            "name": "Bash",
+            "type": "technology"
+          },
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "C#",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "Unity3D",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería Informática",
+        "startDate": "2017-09-01",
+        "finishDate": "2019-06-01",
+        "institution": {
+          "name": "Universidad de Vigo",
+          "description": "Grado en Ingeniería informática"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bash",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Administración de Sistemas Informáticos en Red",
+        "startDate": "2015-09-01",
+        "finishDate": "2017-06-01",
+        "institution": {
+          "name": "IES Xulián Magariños",
+          "description": "FP superior de Informática"
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/brais-viqueira-mosquera-90b10a219/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Data Analysis & BI",
+        "DevOps & Infrastructure & SRE",
+        "Full-stack Developer",
+        "Machine Learning Engineer"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
