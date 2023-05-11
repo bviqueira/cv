@@ -10,23 +10,17 @@
       "surnames": "Viqueira Mosquera",
       "title": "Informático interesado en IA, abierto a otras especialidades",
       "description": "Soy una persona curiosa a la que le gusta aprender sobre cualquier cosa. Con ganas de adquirir experiencia personal y formar parte de algún proyecto interesante. Mi interés principal ahora mismo es conocer más sobre la IA, pero realmente tengo interés en otros campos, como programador o IT.",
+      "avatar": {
+        "alt": "1683656364786.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/150213fc-e17c-4d6e-b5e5-4173a0c342d8_1683656364786.jpeg"
+      },
       "location": {
         "country": "España",
         "region": "Galicia",
         "municipality": "La Coruña",
-        "notes": "Autocompleted using Google Maps API"
+        "notes": "Autocompleted using Google Maps API (id: ChIJTVd08fx8Lg0R7t9cCQ01R2o)"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/bviqueira/"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/bviqueira"
-      }
-    ]
+    }
   },
   "experience": {
     "jobs": [
@@ -359,6 +353,15 @@
           "type": "other",
           "URL": "https://github.com/bviqueira/"
         }
+      ],
+      "contactMails": [
+        "braisviqmos.x2@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "613079397",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
@@ -370,5 +373,12 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "softSkills": [
+      "Aprendizaje Continuo",
+      "Autonomía en el aprendizaje",
+      "Pensamiento analítico"
+    ]
   }
 }
