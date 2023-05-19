@@ -11,14 +11,14 @@
       "title": "Informático interesado en IA, abierto a otras especialidades",
       "description": "Soy una persona curiosa a la que le gusta aprender sobre cualquier cosa. Con ganas de adquirir experiencia personal y formar parte de algún proyecto interesante. Mi interés principal ahora mismo es conocer más sobre la IA, pero realmente tengo interés en otros campos, como programador o IT.",
       "avatar": {
-        "alt": "1683656364786.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/150213fc-e17c-4d6e-b5e5-4173a0c342d8_1683656364786.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/11/150213fc-e17c-4d6e-b5e5-4173a0c342d8_1683656364786.jpeg",
+        "alt": "1683656364786.jpeg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJTVd08fx8Lg0R7t9cCQ01R2o)",
         "country": "España",
         "region": "Galicia",
-        "municipality": "La Coruña",
-        "notes": "Autocompleted using Google Maps API (id: ChIJTVd08fx8Lg0R7t9cCQ01R2o)"
+        "municipality": "La Coruña"
       }
     }
   },
@@ -28,8 +28,8 @@
         "organization": {
           "name": "SANEA",
           "image": {
-            "alt": "sanea_logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/10/30cbaef8-55c8-44ba-941d-6b929034d752_sanea_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/10/30cbaef8-55c8-44ba-941d-6b929034d752_sanea_logo.png",
+            "alt": "sanea_logo.png"
           },
           "URL": "https://www.sanea.org/"
         },
@@ -50,8 +50,8 @@
         "organization": {
           "name": "Telegram",
           "image": {
-            "alt": "telegram_logo.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/10/9f7c26af-d8e4-4e22-b29b-d746ab77fee8_telegram_logo.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/10/9f7c26af-d8e4-4e22-b29b-d746ab77fee8_telegram_logo.jpg",
+            "alt": "telegram_logo.jpg"
           },
           "URL": "https://telegram.org"
         },
@@ -73,16 +73,16 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Inglés",
-        "level": "Professional working proficiency"
-      },
-      {
         "name": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "Gallego",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Inglés",
+        "level": "Full professional proficiency"
       }
     ],
     "hardSkills": [
@@ -94,13 +94,7 @@
       },
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
+          "name": "CSS",
           "type": "technology"
         }
       },
@@ -118,13 +112,7 @@
       },
       {
         "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Unity3D",
+          "name": "JAVA",
           "type": "technology"
         }
       },
@@ -142,13 +130,25 @@
       },
       {
         "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "SQL",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Unity3D",
           "type": "technology"
         }
       }
@@ -159,11 +159,11 @@
         "degreeAchieved": true,
         "name": "Administración de Sistemas Informáticos en Red",
         "startDate": "2015-09-01",
-        "finishDate": "2017-06-01",
         "institution": {
           "name": "IES Xulián Magariños",
           "description": "FP superior de Informática"
         },
+        "finishDate": "2017-06-01",
         "linkedCompetences": [
           {
             "name": "JAVA",
@@ -192,8 +192,8 @@
           "name": "Google",
           "URL": "https://www.coursera.org/account/accomplishments/specialization/certificate/4KGC9UEVGQ5D",
           "image": {
-            "alt": "google_logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/10/cfdfdca4-058a-45a6-b5c1-025583a43c60_google_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/10/cfdfdca4-058a-45a6-b5c1-025583a43c60_google_logo.png",
+            "alt": "google_logo.png"
           }
         },
         "linkedCompetences": [
@@ -220,8 +220,8 @@
           "name": "Google",
           "URL": "https://www.coursera.org/account/accomplishments/specialization/certificate/FAFLNN4CMLKT",
           "image": {
-            "alt": "google_logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/10/7ca8af11-a942-495c-8d29-12b108ace5f1_google_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/10/7ca8af11-a942-495c-8d29-12b108ace5f1_google_logo.png",
+            "alt": "google_logo.png"
           }
         },
         "linkedCompetences": [
@@ -236,15 +236,15 @@
         "degreeAchieved": true,
         "name": "Ingeniería Informática",
         "startDate": "2017-09-01",
-        "finishDate": "2019-06-01",
         "institution": {
           "name": "Universidad de Vigo",
           "description": "Grado en Ingeniería informática",
           "image": {
-            "alt": "uvigo_logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/10/7ffc0028-7e6d-4d8d-a782-a873941b1bb0_uvigo_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/10/7ffc0028-7e6d-4d8d-a782-a873941b1bb0_uvigo_logo.png",
+            "alt": "uvigo_logo.png"
           }
         },
+        "finishDate": "2019-06-01",
         "linkedCompetences": [
           {
             "name": "Bash",
@@ -285,8 +285,8 @@
           "name": "Universidad de La Coruña",
           "description": "Grado en Ingeniería Informática",
           "image": {
-            "alt": "udc_logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/10/8072ed0b-bfc2-444c-bc51-41a3a47eff68_udc_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/10/8072ed0b-bfc2-444c-bc51-41a3a47eff68_udc_logo.png",
+            "alt": "udc_logo.png"
           }
         },
         "linkedCompetences": [
@@ -340,18 +340,38 @@
           }
         ]
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/bviqueira"
+          "URL": "https://www.linkedin.com/in/bviqueira",
+          "type": "linkedin"
         },
         {
-          "type": "other",
-          "URL": "https://github.com/bviqueira/"
+          "URL": "https://github.com/bviqueira/",
+          "type": "other"
         }
       ],
       "contactMails": [
@@ -373,12 +393,5 @@
       ]
     },
     "status": "searchingActively"
-  },
-  "manfredSpecificData": {
-    "softSkills": [
-      "Aprendizaje Continuo",
-      "Autonomía en el aprendizaje",
-      "Pensamiento analítico"
-    ]
   }
 }
