@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   # Automatic build on push, choose the branch you want to use here
   push:
-    branches: "master"
+    branches: "main"
   # If you want to be able to build it manually from any branch
   workflow_dispatch:
 
