@@ -339,6 +339,15 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": false,
+        "name": "sfgn",
+        "startDate": "2023-03-01",
+        "institution": {
+          "name": "ndfg"
+        }
       }
     ],
     "softSkills": [
