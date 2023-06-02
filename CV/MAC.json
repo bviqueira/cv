@@ -233,51 +233,6 @@
       },
       {
         "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Ingeniería Informática",
-        "startDate": "2017-09-01",
-        "institution": {
-          "name": "Universidad de Vigo",
-          "description": "Grado en Ingeniería informática",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/10/7ffc0028-7e6d-4d8d-a782-a873941b1bb0_uvigo_logo.png",
-            "alt": "uvigo_logo.png"
-          }
-        },
-        "finishDate": "2019-06-01",
-        "linkedCompetences": [
-          {
-            "name": "Bash",
-            "type": "technology"
-          },
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "MySQL",
-            "type": "technology"
-          },
-          {
-            "name": "SQL",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "officialDegree",
         "degreeAchieved": false,
         "name": "Ingeniería Informática",
         "startDate": "2019-09-01",
