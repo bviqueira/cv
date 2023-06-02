@@ -20,7 +20,17 @@
         "region": "Galicia",
         "municipality": "La Coruña"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/bviqueira/"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/bviqueira/"
+      }
+    ]
   },
   "experience": {
     "jobs": [
