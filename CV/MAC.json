@@ -368,6 +368,10 @@
         {
           "URL": "https://www.linkedin.com/in/bviqueira",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/bviqueira/",
+          "type": "other"
         }
       ],
       "contactMails": [
