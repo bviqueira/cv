@@ -389,5 +389,8 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me gustaría un empleo en el que pudiese aprender y me ayude a crecer profesionalmente. El campo del que más me interesa ahora mismo es la Inteligencia Artificial."
   }
 }
