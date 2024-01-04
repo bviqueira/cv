@@ -77,6 +77,11 @@
         "name": "ES",
         "fullName": "Español",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "GL",
+        "fullName": "Gallego",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
