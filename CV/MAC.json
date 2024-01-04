@@ -72,6 +72,11 @@
         "name": "EN",
         "fullName": "Inglés",
         "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
