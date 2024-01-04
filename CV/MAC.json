@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -23,8 +23,8 @@
     },
     "relevantLinks": [
       {
-        "type": "github",
-        "URL": "https://github.com/bviqueira/"
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/bviqueira/"
       }
     ]
   },
@@ -32,12 +32,7 @@
     "jobs": [
       {
         "organization": {
-          "name": "SANEA",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/10/30cbaef8-55c8-44ba-941d-6b929034d752_sanea_logo.png",
-            "alt": "sanea_logo.png"
-          },
-          "URL": "https://www.sanea.org/"
+          "name": "SANEA"
         },
         "roles": [
           {
@@ -54,12 +49,7 @@
       },
       {
         "organization": {
-          "name": "Telegram",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/10/9f7c26af-d8e4-4e22-b29b-d746ab77fee8_telegram_logo.jpg",
-            "alt": "telegram_logo.jpg"
-          },
-          "URL": "https://telegram.org"
+          "name": "Telegram"
         },
         "roles": [
           {
@@ -79,16 +69,9 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Español",
-        "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "Gallego",
-        "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "Inglés",
-        "level": "Professional working proficiency"
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
       }
     ],
     "hardSkills": [
@@ -160,119 +143,6 @@
       }
     ],
     "studies": [
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": false,
-        "name": "Ingeniería informática",
-        "startDate": "2019-09-01",
-        "institution": {
-          "name": "Universidad de A Coruña",
-          "description": "Grado en Ingeniería Informática",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/02/fb3d82b3-790c-491a-bb0d-e2e67dd203c0_udc_logo.png",
-            "alt": "udc_logo.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Apache",
-            "type": "technology"
-          },
-          {
-            "name": "Bash",
-            "type": "technology"
-          },
-          {
-            "name": "C",
-            "type": "technology"
-          },
-          {
-            "name": "C#",
-            "type": "technology"
-          },
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "Flutter",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "MySQL",
-            "type": "technology"
-          },
-          {
-            "name": "Python",
-            "type": "technology"
-          },
-          {
-            "name": "SQL",
-            "type": "technology"
-          },
-          {
-            "name": "Unity3D",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Ingeniería Informática",
-        "startDate": "2017-09-01",
-        "institution": {
-          "name": "Universidad de Vigo",
-          "description": "Grado en Ingeniería Informática",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/02/53fbe833-94dd-4799-aa5e-4f78939a1188_uvigo_logo.png",
-            "alt": "uvigo_logo.png"
-          }
-        },
-        "finishDate": "2019-06-01",
-        "linkedCompetences": [
-          {
-            "name": "Bash",
-            "type": "technology"
-          },
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "MySQL",
-            "type": "technology"
-          },
-          {
-            "name": "SQL",
-            "type": "technology"
-          }
-        ]
-      },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
@@ -349,6 +219,123 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería Informática",
+        "startDate": "2017-09-01",
+        "institution": {
+          "name": "University of Vigo",
+          "description": "Computer engeneering degree",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/02/53fbe833-94dd-4799-aa5e-4f78939a1188_uvigo_logo.png",
+            "alt": "uvigo_logo.png"
+          }
+        },
+        "finishDate": "2019-06-01",
+        "linkedCompetences": [
+          {
+            "name": "Bash",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Ingeniería informática",
+        "startDate": "1996-08-01",
+        "institution": {
+          "name": "University of A Coruña",
+          "description": "Grado en Ingeniería informática",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/02/fb3d82b3-790c-491a-bb0d-e2e67dd203c0_udc_logo.png",
+            "alt": "udc_logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "ADA",
+            "type": "technology"
+          },
+          {
+            "name": "Apache",
+            "type": "technology"
+          },
+          {
+            "name": "Bash",
+            "type": "technology"
+          },
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "C#",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Flutter",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "Unity3D",
+            "type": "technology"
+          }
+        ]
       }
     ],
     "softSkills": [
@@ -376,22 +363,12 @@
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://www.linkedin.com/in/bviqueira",
+          "URL": "https://www.linkedin.com/in/bviqueira/",
           "type": "linkedin"
-        },
-        {
-          "URL": "https://github.com/bviqueira/",
-          "type": "github"
         }
       ],
       "contactMails": [
         "braisviqmos.x2@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "613079397",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
